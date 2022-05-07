@@ -1,5 +1,5 @@
 import  ReactDOM  from "react-dom";
 import './index.css';
+import Comp1 from './app.js'
 
-
-ReactDOM.render(<h1>reactjs course</h1>, document.getElementById('root'));
+ReactDOM.render(<Comp1/>, document.getElementById('root'));
